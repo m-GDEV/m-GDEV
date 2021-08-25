@@ -23,11 +23,11 @@ I an an Aspiring Software Engineer and Computer Scientist.
 
 ---
 
-### Check out my Github Stats!
+### 📈 Check out my Github Stats!
 [![Musa Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-GDEV&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Some of my personal projects
+### 👨‍💻 Some of my personal projects
 [![ifetch Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=m-GDEV&repo=ifetch&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
