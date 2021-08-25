@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 
 
-[![Musa Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-GDEV&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Musa Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-GDEV&count_private=true)](https://github.com/m-GDEV/)
+> [Check out this amazing project ^ ](https://github.com/anuraghazra/github-readme-stats)
 
 
