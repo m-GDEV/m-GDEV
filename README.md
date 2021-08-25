@@ -13,23 +13,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋 my name is Musa Ahmed, nice to meet you!
+# Hi there 👋 my name is Musa Ahmed, nice to meet you!
 
 I an an Aspiring Software Engineer and Computer Scientist.
 - 🌱 I’m currently learning C, Python, CSS, & JS
 - 📫 How to reach me:
-  ✉️ <mailto:musaa.ahmed7@protonmail.com>
-  🌐 <https://connectwithmusa.com>
+  - ✉️ <musaa.ahmed7@protonmail.com>
+  - 🌐 <https://connectwithmusa.com>
 
 ---
 
-# Check out my Github Stats!
+### Check out my Github Stats!
 [![Musa Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-GDEV&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-# Some of my personal projects
+### Some of my personal projects
 [![ifetch Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=m-GDEV&repo=ifetch&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-# My most used programming languages
+### My most used programming languages
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=m-GDEV&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
