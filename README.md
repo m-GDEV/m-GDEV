@@ -24,13 +24,19 @@ I an an Aspiring Software Engineer and Computer Scientist.
 ---
 
 ### 📈 Check out my Github Stats!
-[![Musa Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-GDEV&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Musa Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-GDEV&show_icons=true&theme=radical)](#)
 
 
 ### 👨‍💻 Some of my personal projects
-[![ifetch Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=m-GDEV&repo=ifetch&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![dotfiles Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=m-GDEV&repo=dotfiles&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![ifetch Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=m-GDEV&repo=ifetch&theme=radical)](https://github.com/m-GDEV/ifetch)
+[![dotfiles Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=m-GDEV&repo=dotfiles&theme=radical)](https://github.com/m-GDEV/dotfiles)
 
 
 ### My most used programming languages
-[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=m-GDEV&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=m-GDEV&theme=radical)](#)
+
+
+---
+
+
+[Check out this amazing tool I used for these cards!](https://github.com/anuraghazra/github-readme-stats)
