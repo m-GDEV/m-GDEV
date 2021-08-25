@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 
 # Check out my Github Stats!
-[![Musa Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-GDEV&show_icons=true&theme=radical&custom_title=)](https://github.com/anuraghazra/github-readme-stats)
+[![Musa Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-GDEV&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 # Some of my personal projects
 [![ifetch Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=m-GDEV&repo=ifetch&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 # My most used programming languages
-[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=m-GDEV)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=m-GDEV&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
