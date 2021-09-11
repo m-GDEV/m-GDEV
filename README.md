@@ -29,6 +29,7 @@ I an an Aspiring Software Engineer and Computer Scientist.
 
 ### 👨‍💻 Some of my personal projects
 [![ifetch Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=m-GDEV&repo=ifetch&theme=radical)](https://github.com/m-GDEV/ifetch)
+[![connectwithmusa.com Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=m-GDEV&repo=connectwithmusa.com&theme=radical)](https://github.com/m-GDEV/connectwithmusa.com)
 
 ### My most used programming languages
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=m-GDEV&theme=radical)](#)
