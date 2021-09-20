@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋 my name is Musa Ahmed, nice to meet you!
 
-I an an Aspiring Software Engineer and Computer Scientist.
+I an an Aspiring Software Developer and Computer Scientist.
 - 🌱 I’m currently learning C, Python, CSS, & JS
 - 📫 How to reach me:
   - ✉️ <musaa.ahmed7@protonmail.com>
