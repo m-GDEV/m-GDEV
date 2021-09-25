@@ -28,8 +28,10 @@ I an an Aspiring Software Developer and Computer Scientist.
 
 
 ### 👨‍💻 Some of my personal projects
-[![ifetch Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=m-GDEV&repo=ifetch&theme=radical)](https://github.com/m-GDEV/ifetch)
+[![weather-dashbord Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=m-GDEV&repo=weather-dashboard&theme=radical)](https://github.com/m-GDEV/weather-dashboard)
 [![connectwithmusa.com Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=m-GDEV&repo=connectwithmusa.com&theme=radical)](https://github.com/m-GDEV/connectwithmusa.com)
+[![ifetch Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=m-GDEV&repo=ifetch&theme=radical)](https://github.com/m-GDEV/ifetch)
+
 
 ### My most used programming languages
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=m-GDEV&theme=radical)](#)
