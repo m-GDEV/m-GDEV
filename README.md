@@ -27,7 +27,7 @@ I an an Aspiring Software Developer and Computer Scientist.
 ---
 
 ### 📈 Check out my Github Stats!
-[![Musa Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-GDEV&show_icons=true&theme=radical)]
+![Musa Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-GDEV&show_icons=true&theme=radical)
 
 ### 🧰 Tools and Technologies I've worked with
 <p align="center">
