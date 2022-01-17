@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋 my name is Musa Ahmed, nice to meet you!
 
-I an an Aspiring Software Developer and Computer Scientist.
+### I an an Aspiring Software Developer and Computer Scientist.
 - 🌱 I’m currently learning JS, React, C, Python, & CSS
 - 🔭 I’m currently working on:
   - a [Weather Dashboard](https://github.com/m-GDEV/weather-dashboard)
