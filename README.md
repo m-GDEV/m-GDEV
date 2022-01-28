@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 ### I an an Aspiring Software Developer and Computer Scientist.
 - 🌱 I’m currently learning JS, React, C, Python, & CSS
 - 🔭 I’m currently working on:
-  - a [Weather Dashboard](https://github.com/m-GDEV/weather-dashboard)
-  - a [URL Shortener](https://github.com/m-GDEV/shortURL)
+  - a [My Personal Website](https://github.com/m-GDEV/connectwithmusa.com)
 - 📫 How to reach me:
   - ✉️ <musaa.ahmed7@protonmail.com>
   - 🌐 <https://connectwithmusa.com>
