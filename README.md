@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on:
   - [My Personal Website](https://github.com/m-GDEV/connectwithmusa.com)
 - 📫 How to reach me:
-  - ✉️ <musaa.ahmed7@protonmail.com>
+  - ✉️ <musaa.ahmed7@gmail.com>
   - 🌐 <https://connectwithmusa.com>
 
 ---
