@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 # Hi there 👋 my name is Musa Ahmed, nice to meet you!
 
 ### I an an Aspiring Software Developer and Computer Scientist.
-- 🌱 I’m currently learning JS, React, C, Python, & CSS
+- ⚡ I'm currently mastering JS, React, C, Python, & CSS
+- 🌱 I’m currently learning Document Databases (MongoDB)
 - 🔭 I’m currently working on:
-  - [My Personal Website](https://github.com/m-GDEV/connectwithmusa.com)
+  - [TaskTrack - The task manager JUST like other girls] (https://github.com/m-GDEV/TaskTrack)
+  - [SteamBacklog] (https://github.com/m-GDEV/SteamBacklog)
 - 📫 How to reach me:
   - ✉️ <musaa.ahmed7@gmail.com>
   - 🌐 <https://connectwithmusa.com>
@@ -48,8 +50,8 @@ Here are some ideas to get you started:
 </p>
 
 ### 👨‍💻 Some of my personal projects
-[![weather-dashbord Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=m-GDEV&repo=weather-dashboard&theme=radical)](https://github.com/m-GDEV/weather-dashboard)
 [![connectwithmusa.com Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=m-GDEV&repo=connectwithmusa.com&theme=radical)](https://github.com/m-GDEV/connectwithmusa.com)
+[![TaskTrack Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=m-GDEV&repo=TraskTrack&theme=radical)](https://github.com/m-GDEV/weather-dashboard)
 [![ifetch Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=m-GDEV&repo=ifetch&theme=radical)](https://github.com/m-GDEV/ifetch)
 
 
@@ -57,7 +59,7 @@ Here are some ideas to get you started:
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=m-GDEV&theme=radical)](#)
 
 
-### 😂 Here's a joke to brighten your day
+### Here's a joke to brighten your day
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ---
