@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 Some of my personal projects
 [![connectwithmusa.com Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=m-GDEV&repo=connectwithmusa.com&theme=radical)](https://github.com/m-GDEV/connectwithmusa.com)
-[![TaskTrack Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=m-GDEV&repo=TraskTrack&theme=radical)](https://github.com/m-GDEV/weather-dashboard)
+[![TaskTrack Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=m-GDEV&repo=TaskTrack&theme=radical)](https://github.com/m-GDEV/TaskTrack)
 [![ifetch Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=m-GDEV&repo=ifetch&theme=radical)](https://github.com/m-GDEV/ifetch)
 
 
