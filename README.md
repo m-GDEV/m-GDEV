@@ -59,9 +59,6 @@ Here are some ideas to get you started:
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=m-GDEV&theme=radical)](#)
 
 
-### Here's a joke to brighten your day
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 ---
 
 
