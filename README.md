@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### I an an Aspiring Software Developer and Computer Scientist.
 - ⚡ I'm currently mastering JS, React, C, Python, & CSS
-- 🌱 I’m currently learning Document Databases (MongoDB)
+- 🌱 I’m currently learning Document Databases (MongoDB & Firebase)
 - 🔭 I’m currently working on:
   - [TaskTrack - The task manager JUST like other girls](https://github.com/m-GDEV/TaskTrack)
   - [SteamBack](https://github.com/m-GDEV/SteamBack)
