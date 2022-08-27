@@ -47,6 +47,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/GNU%20/%20Linux-black?style=for-the-badge&logo=linux&logoColor=yellow" />
   <img src="https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm&logoColor=blue" />
   <img src="https://img.shields.io/badge/yarn-blue?style=for-the-badge&logo=yarn&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Firebase-eab308?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-166534?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ### 👨‍💻 Some of my personal projects
