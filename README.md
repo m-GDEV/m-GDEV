@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 # Hi there 👋 my name is Musa Ahmed, nice to meet you!
 
 ### I an an Aspiring Software Developer and Computer Scientist.
-- ⚡ I'm currently mastering JS, React, C, Python, & CSS
-- 🌱 I’m currently learning Document Databases (MongoDB & Firebase)
+- ⚡ I'm currently mastering C & Python
+- 🌱 I’m currently learning Jetpack Compose & Rust
 - 🔭 I’m currently working on:
+  - [redline - Visualize your assignments](https://github.com/m-GDEV/redline])
   - [TaskTrack - The task manager JUST like other girls](https://github.com/m-GDEV/TaskTrack-3)
 - 📫 How to reach me:
   - ✉️ <musaa.ahmed7@gmail.com>
@@ -51,8 +52,9 @@ Here are some ideas to get you started:
 </p>
 
 ### 👨‍💻 Some of my personal projects
+[![redline Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=m-GDEV&repo=redline&theme=radical)](https://github.com/m-GDEV/redline)
+[![TaskTrack Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=m-GDEV&repo=TaskTrack&theme=radical)](https://github.com/m-GDEV/TaskTrack)
 [![connectwithmusa.com Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=m-GDEV&repo=connectwithmusa.com&theme=radical)](https://github.com/m-GDEV/connectwithmusa.com)
-[![TaskTrack Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=m-GDEV&repo=TaskTrack&theme=radical)](https://github.com/m-GDEV/TaskTrack-3)
 [![SteamBack Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=m-GDEV&repo=SteamBack&theme=radical)](https://github.com/m-GDEV/SteamBack)
 [![ifetch Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=m-GDEV&repo=ifetch&theme=radical)](https://github.com/m-GDEV/ifetch)
 
