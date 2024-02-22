@@ -17,10 +17,16 @@ Here are some ideas to get you started:
 
 ### I an an Aspiring Software Developer and Computer Scientist.
 - ⚡ I'm currently mastering C & Python
-- 🌱 I’m currently learning Jetpack Compose & Rust
-- 🔭 I’m currently working on:
+- 🌱 I’m currently learning Android Development (with Jetpack Compose), Rust, Go, SQL, and LaTeX
+- 🔭 Some big projects I'm working on:
   - [redline - Visualize your assignments](https://github.com/m-GDEV/redline])
   - [TaskTrack - The task manager JUST like other girls](https://github.com/m-GDEV/TaskTrack-3)
+- 🕹️ Some random side projects I'm working on:
+  - [monkey-interpreter - Writing a REPL interpreter](https://github.com/m-GDEV/monkey-interpreter)
+  - [my-shell - My attempt at writing a *very* simple version of a shell](https://github.com/m-GDEV/my-shell)
+  - [explore-wikipedia - Building a grpah of Wikipedia's pages with a interactive website](https://github.com/m-GDEV/explore-wikipedia)
+  - [terminal-gachi - Ever wanted a tamogachi in the terminal?](https://github.com/m-GDEV/terminal-gachi)
+  - [library-analysis-project - Tracking my university's library usage](https://github.com/m-GDEV/library-analysis-project)
 - 📫 How to reach me:
   - ✉️ <musaa.ahmed7@gmail.com>
   - 🌐 <https://connectwithmusa.com>
@@ -51,13 +57,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MongoDB-166534?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
+<!---
 ### 👨‍💻 Some of my personal projects
 [![redline Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=m-GDEV&repo=redline&theme=radical)](https://github.com/m-GDEV/redline)
 [![TaskTrack Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=m-GDEV&repo=TaskTrack&theme=radical)](https://github.com/m-GDEV/TaskTrack)
 [![connectwithmusa.com Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=m-GDEV&repo=connectwithmusa.com&theme=radical)](https://github.com/m-GDEV/connectwithmusa.com)
 [![SteamBack Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=m-GDEV&repo=SteamBack&theme=radical)](https://github.com/m-GDEV/SteamBack)
 [![ifetch Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=m-GDEV&repo=ifetch&theme=radical)](https://github.com/m-GDEV/ifetch)
-
+--->
 
 ### My most used programming languages
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=m-GDEV&theme=radical)](#)
