@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ I'm currently mastering C & Python
 - 🌱 I’m currently learning Android Development (with Jetpack Compose), Rust, Go, SQL, and LaTeX
 - 🔭 Some big projects I'm working on:
-  - [redline - Visualize your assignments](https://github.com/m-GDEV/redline])
+  - [redline - Visualize your assignments](https://github.com/m-GDEV/redline)
   - [TaskTrack - The task manager JUST like other girls](https://github.com/m-GDEV/TaskTrack-3)
 - 🕹️ Some random side projects I'm working on:
   - [monkey-interpreter - Writing a REPL interpreter](https://github.com/m-GDEV/monkey-interpreter)
