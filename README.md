@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 | GNU/Linux (incl. shell scripting & VPS management) ||||✅|
 | HTML & CSS (incl. TailwindCSS) |||✅||||
 | Python 3 |||✅|||
-| ASP.NET Core (incl. Blazor, Minimal APIs, EF Core) ||✅|||
+| ASP.NET Core (incl. Blazor, Minimal APIs, EF Core) |||✅||
 | JavaScript ||✅|||||
 | C# ||✅|||||
 | Git ||✅|||
