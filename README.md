@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋 my name is Musa Ahmed, nice to meet you!
 
-### I'm a Software Developer and Computer Scientist (in the making!).
+### I'm a Software Developer and Computer Scientist (in the making at the [University of Guelph](https://github.com/m-GDEV/WorkTermReports-GuelphCoop)!)
 - 📫 How to reach me:
   - ✉️ <musaa.ahmed7@gmail.com>
   - 🌐 <https://connectwithmusa.com>
