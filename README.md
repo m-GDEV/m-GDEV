@@ -1,5 +1,23 @@
 # 💫 About Me:
-### I'm a Software Developer and Computer Scientist (in the making at the [University of Guelph](https://github.com/m-GDEV/WorkTermReports-GuelphCoop)!)<br>- 📫 How to reach me:<br>  - ✉️ <musaa.ahmed7@gmail.com><br>  - 🌐 <https://connectwithmusa.com><br><br>- ⚡ I'm currently primarily working with the Typescript + React stack<br>  <br>- 🔭 Some big projects I'm working on:<br>  - [WardrobeManager - Effortlessly manage your clothing](https://github.com/m-GDEV/WardrobeManager)<br>  - [Crafting Interpreters - Creating a compiler from scratch](https://github.com/m-GDEV/crafting-interpreters)<br>  <br>- 🕹️ Some random side projects I'm working on:<br>    - [Balatro Joker Maker](https://github.com/m-GDEV/balatro-joker-maker)<br><br>- 💀 Some side projects I should probably resurrect:<br>  - [crafting-interpreters - I'm learning how to make a compiler!](https://github.com/m-GDEV/crafting-interpreters)<br>  - [terminal-gachi - Ever wanted a tamogachi in the terminal?](https://github.com/m-GDEV/terminal-gachi)<br>  - [library-analysis-project - Tracking my university's library usage](https://github.com/m-GDEV/library-analysis-project)<br>  - [redline - Visualize your assignments](https://github.com/m-GDEV/redline)<br>
+### I'm a Software Developer and Computer Scientist (in the making at the [University of Guelph](https://github.com/m-GDEV/WorkTermReports-GuelphCoop)!)<br>
+- 📫 How to reach me:
+  - ✉️ <musaa.ahmed7@gmail.com>
+  - 🌐 <https://connectwithmusa.com>
+
+- ⚡ I'm currently primarily working with the Typescript + React stack
+  
+- 🔭 Some big projects I'm working on:
+  - [WardrobeManager - Effortlessly manage your clothing](https://github.com/m-GDEV/WardrobeManager)
+  - [Crafting Interpreters - Creating a compiler from scratch](https://github.com/m-GDEV/crafting-interpreters)
+  
+- 🕹️ Some random side projects I'm working on:
+    - [Balatro Joker Maker](https://github.com/m-GDEV/balatro-joker-maker)
+
+- 💀 Some side projects I should probably resurrect:
+  - [crafting-interpreters - I'm learning how to make a compiler!](https://github.com/m-GDEV/crafting-interpreters)
+  - [terminal-gachi - Ever wanted a tamogachi in the terminal?](https://github.com/m-GDEV/terminal-gachi)
+  - [library-analysis-project - Tracking my university's library usage](https://github.com/m-GDEV/library-analysis-project)
+  - [redline - Visualize your assignments](https://github.com/m-GDEV/redline)
 
 
 ## 🌐 Socials:
