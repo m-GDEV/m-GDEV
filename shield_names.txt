@@ -1,0 +1,2985 @@
+.ENV
+.NET
+/e/
+1001Tracklists
+1Password
+2K
+365 Data Science
+3M
+42
+4chan
+4D
+500px
+7Zip
+99designs
+9GAG
+A-Frame
+ABB RobotStudio
+Abbott
+Abbvie
+About.me
+Abstract
+Academia
+Accenture
+Accusoft
+Acer
+ACM
+ActiGraph
+Activision
+ActivityPub
+Acura
+Adafruit
+AdBlock
+Adblock Plus
+AdGuard
+Adidas
+Adminer
+Adobe
+Adobe Acrobat Reader
+Adobe After Effects
+Adobe Audition
+Adobe Creative Cloud
+Adobe Dreamweaver
+Adobe Fonts
+Adobe Illustrator
+Adobe InDesign
+Adobe Lightroom
+Adobe Lightroom Classic
+Adobe Photoshop
+Adobe Premiere Pro
+Adobe XD
+AdonisJS
+ADP
+Adroll
+Advent Of Code
+Adyen
+Aer Lingus
+Aeroflot
+Aeroméxico
+Aerospike
+AEW
+AFFiNE
+Affinity
+Affinity Designer
+Affinity Photo
+Affinity Publisher
+Afterpay
+Agora
+AI Dungeon
+AIB
+AIOHTTP
+Aiqfome
+Air Canada
+Air China
+Air France
+Air India
+Air Transat
+AirAsia
+Airbnb
+Airbrake.io
+Airbus
+Airbyte
+Aircall
+AirPlay Audio
+AirPlay Video
+Airtable
+Airtel
+Ajv
+Akamai
+Akaunting
+Alacritty
+Alamy
+Albert Heijn
+Alby
+Alchemy
+Aldi Nord
+Aldi Süd
+Alfa Romeo
+Alfred
+Algolia
+Algorand
+Alibaba Cloud
+Alibaba.com
+Alienware
+AliExpress
+Alipay
+Allegro
+AlliedModders
+AlloCiné
+AllTrails
+AlmaLinux
+Alpine Linux
+Alpine.js
+Alteryx
+Altium Designer
+Alwaysdata
+Amazon
+Amazon Alexa
+Amazon API Gateway
+Amazon AWS
+Amazon CloudWatch
+Amazon DocumentDB
+Amazon DynamoDB
+Amazon EC2
+Amazon ECS
+Amazon EKS
+Amazon Fire TV
+Amazon Games
+Amazon Identity Access Management
+Amazon Lumberyard
+Amazon Luna
+Amazon Music
+Amazon Pay
+Amazon Prime
+Amazon RDS
+Amazon Redshift
+Amazon Route 53
+Amazon S3
+Amazon Simple Email Service
+Amazon SQS
+AMD
+Ameba
+American Airlines
+American Express
+AMG
+AMP
+Amul
+ANA
+Anaconda
+Analogue
+Andela
+Android
+Android Auto
+Android Studio
+Angular
+AniList
+Animal Planet
+Ansible
+Answer
+Ansys
+Ant Design
+Anta
+Antena 3
+AnyDesk
+AOL
+Apache
+Apache Airflow
+Apache Ant
+Apache Cassandra
+Apache CloudStack
+Apache Cordova
+Apache CouchDB
+Apache Druid
+Apache ECharts
+Apache Flink
+Apache Groovy
+Apache Guacamole
+Apache Hadoop
+Apache Hive
+Apache JMeter
+Apache Kafka
+Apache Kylin
+Apache Maven
+Apache NetBeans IDE
+Apache OpenOffice
+Apache Parquet
+Apache Pulsar
+Apache RocketMQ
+Apache Solr
+Apache Spark
+Apache Storm
+Apache Tomcat
+Aparat
+Apifox
+APM Terminals
+Apollo GraphQL
+Apostrophe
+App Store
+Appian
+Apple
+Apple Arcade
+Apple Music
+Apple News
+Apple Pay
+Apple Podcasts
+Apple TV
+AppSignal
+Appsmith
+AppVeyor
+Appwrite
+Aqua
+ARAL
+ArangoDB
+Arc
+ArcGIS
+Arch Linux
+Archicad
+Archive of Our Own
+Ardour
+Arduino
+Argo
+Argos
+Ariakit
+ARK Ecosystem
+Arlo
+Arm
+Arm Keil
+Ars Technica
+Artifact Hub
+Artix Linux
+ArtStation
+arXiv
+Asahi Linux
+Asana
+Asciidoctor
+asciinema
+ASDA
+Aseprite
+ASKfm
+AssemblyScript
+Aston Martin
+Astro
+ASUS
+AT&T
+Atari
+Atlassian
+Auchan
+Audacity
+Audi
+Audible
+Audio-Technica
+Audioboom
+Audiomack
+Aurelia
+Auth0
+Authelia
+Authy
+AutoCAD
+Autodesk
+Autodesk Maya
+Autodesk Revit
+AutoHotkey
+AutoIt
+Automattic
+Autoprefixer
+avajs
+Avast
+avianca
+Avira
+Awesome Lists
+awesomeWM
+AWS Amplify
+AWS Fargate
+AWS Lambda
+AWS Organizations
+Axios
+Azure Artifacts
+Azure Data Explorer
+Azure DevOps
+Azure Functions
+Azure Pipelines
+B&R Automation
+Babel
+Babelio
+Backblaze
+Backbone.js
+Backendless
+Backstage
+Badoo
+Baidu
+Bakaláři
+Bamboo
+Bandcamp
+BandLab
+Bandsintown
+Bank of America
+Barclays
+Baremetrics
+Barmenia
+Basecamp
+Basic Attention Token
+Bastyon
+Bata
+Battle.net
+Beatport
+Beats
+Beats by Dre
+Behance
+Beijing Subway
+BEM
+Bentley
+Bento
+BentoBox
+BentoML
+BeReal
+Betfair
+Bevy
+Big Cartel
+bigbasket
+BigBlueButton
+BigCommerce
+Bilibili
+Billboard
+BIM
+Binance
+Bio Link
+Biome
+BisectHosting
+Bit
+Bitbucket
+Bitcoin
+Bitcoin Cash
+Bitcoin SV
+BitComet
+Bitdefender
+Bitly
+Bitrise
+BitTorrent
+Bitwarden
+Bitwig
+Blackberry
+Blackmagic Design
+Blazemeter
+Blazor
+Blender
+Blockbench
+Blockchain.com
+Blogger
+Bloglovin
+Blueprint
+Bluesky
+Bluesound
+Bluetooth
+BMC Software
+BMW
+BNB Chain
+BoardGameGeek
+Boehringer Ingelheim
+Boeing
+Bombardier
+Bookalope
+BookBub
+Bookmeter
+BookMyShow
+BookStack
+Boost
+Boosty
+Boots
+Bootstrap
+BorgBackup
+Bosch
+Bose
+Botble CMS
+boulanger
+Bower
+Box
+Boxy SVG
+Brandfolder
+Brave
+Breaker
+Brenntag
+Brevo
+Brex
+Bricks
+British Airways
+Broadcom
+BSD
+bspwm
+BT
+Buddy
+Budibase
+Buefy
+Buffer
+Bugatti
+Bugcrowd
+Bugsnag
+Buildkite
+Bukalapak
+Bulma
+Bun
+bunq
+Burger King
+Burton
+Buy Me A Coffee
+BuzzFeed
+BVG
+Byju's
+ByteDance
+C
+C++
+C++ Builder
+Cachet
+Caddy
+Cadillac
+CafePress
+Caffeine
+Cairo Graphics
+Cairo Metro
+CakePHP
+Calendly
+Campaign Monitor
+Canonical
+Canva
+Canvas
+Capacitor
+Car Throttle
+Cardano
+Carlsberg Group
+Carrd
+Carrefour
+Carto
+Cash App
+Castbox
+Castorama
+Castro
+Caterpillar
+CBC
+CBS
+CCleaner
+CD Projekt
+Celery
+Celestron
+CentOS
+Ceph
+Cesium
+Chai
+Chainguard
+Chainlink
+Chakra UI
+Channel 4
+Charles
+Chart.js
+ChartMogul
+Chase
+ChatBot
+Chatwoot
+CheckiO
+Checkmarx
+Checkmk
+Chedraui
+Chef
+Chemex
+Chevrolet
+Chia Network
+China Eastern Airlines
+China Southern Airlines
+Chocolatey
+Chromatic
+Chromecast
+Chrysler
+Chupa Chups
+Cilium
+Cinema 4D
+Circle
+CircleCI
+CircuitVerse
+Cirrus CI
+Cisco
+Citrix
+Citroën
+CiviCRM
+Civo
+CKEditor 4
+Clarifai
+Claris
+Clarivate
+Clerk
+Clever Cloud
+ClickHouse
+ClickUp
+CLion
+Cliqz
+Clockify
+Clojure
+Cloud 66
+Cloud Foundry
+CloudBees
+CloudCannon
+Cloudera
+Cloudflare
+Cloudflare Pages
+Cloudinary
+Cloudsmith
+Cloudways
+Clubhouse
+Clyp
+CMake
+CNCF
+CNET
+CNN
+Co-op
+Coca Cola
+Cockpit
+Cockroach Labs
+CocoaPods
+Cocos
+Coda
+Codacy
+Code Climate
+Code::Blocks
+Codeberg
+Codecademy
+CodeceptJS
+CodeChef
+Codecov
+CodeFactor
+Codeforces
+CodeIgniter
+Codeium
+Codemagic
+Codementor
+CodeMirror
+CodeNewbie
+CodePen
+CodeProject
+CodersRank
+Coderwall
+CodeSandbox
+Codeship
+CodeSignal
+CodeStream
+Codewars
+Coding Ninjas
+CodinGame
+Codio
+CoffeeScript
+Coggle
+Cognizant
+Coil
+Coinbase
+CoinMarketCap
+ComicFury
+Commerzbank
+commitlint
+Commodore
+Common Workflow Language
+Compiler Explorer
+Composer
+CompTIA
+Comsol
+Conan
+Concourse
+Conda-Forge
+Conekta
+Confluence
+Construct 3
+Consul
+Contactless Payment
+containerd
+Contao
+Contentful
+Contentstack
+Conventional Commits
+Convertio
+Cookiecutter
+Cooler Master
+Coppel
+Cora
+Corona Engine
+Corona Renderer
+Corsair
+Couchbase
+Counter-Strike
+CountingWorks PRO
+Coursera
+Coveralls
+cPanel
+Craft CMS
+Craftsman
+CrateDB
+Crayon
+Creality
+Create React App
+Creative Commons
+Creative Technology
+Credly
+Crehana
+Crew United
+Critical Role
+Crowdin
+Crowdsource
+Crunchbase
+Crunchyroll
+CRYENGINE
+Crystal
+CSS Modules
+CSS Wizardry
+CSS3
+CTS
+Cucumber
+Cultura
+curl
+CurseForge
+Custom Ink
+CyberDefenders
+Cycling '74
+Cypress
+Cytoscape.js
+D
+D-EDGE
+D-Wave Systems
+D3.js
+Dacia
+DAF
+daily.dev
+Dailymotion
+Daimler
+DaisyUI
+Dapr
+Dark Reader
+Dart
+Darty
+Das Erste
+Dash
+Dashlane
+Dask
+Dassault Systèmes
+data.ai
+Databricks
+DataCamp
+Datadog
+DataGrip
+Dataiku
+DataStax
+Dataverse
+date-fns
+DatoCMS
+Datto
+DaVinci Resolve
+DAZN
+DBeaver
+dblp
+dbt
+DC Entertainment
+De'Longhi
+Debian
+Decap CMS
+DeepCool
+Deepgram
+deepin
+DeepL
+Deepnote
+del.icio.us
+Deliveroo
+Dell
+Delphi
+Delta
+Deluge
+Deno
+Denon
+Dependabot
+Depositphotos
+Der Spiegel
+Designer News
+Deutsche Bahn
+Deutsche Bank
+Deutsche Post
+dev.to
+DevExpress
+DeviantArt
+Devpost
+devRant
+Dgraph
+DHL
+diagrams.net
+Dialogflow
+Diaspora
+Digg
+Digi-Key Electronics
+DigitalOcean
+Diners Club
+Dior
+Directus
+Discogs
+Discord
+Discourse
+Discover
+Disqus
+Disroot
+Distrokid
+Django
+DJI
+Dlib
+DLNA
+dm
+Docker
+Docs.rs
+Docsify
+Docusaurus
+DocuSign
+Dogecoin
+DOI
+Dolby
+DoorDash
+Douban
+Douban Read
+Dovecot
+Doxygen
+DPD
+Dragonframe
+Draugiem.lv
+Dreamstime
+Dribbble
+Drizzle
+Drone
+Drooble
+Dropbox
+Drupal
+DS Automobiles
+DTS
+DTube
+Ducati
+DuckDB
+DuckDuckGo
+Dungeons & Dragons
+Dunked
+Dunzo
+Duolingo
+DVC
+dwm
+Dynamics 365
+Dynatrace
+E.Leclerc
+E3
+EA
+Eagle
+EasyEDA
+easyJet
+eBay
+EBOX
+Eclipse Adoptium
+Eclipse Che
+Eclipse IDE
+Eclipse Jetty
+Eclipse Mosquitto
+Eclipse Vert.x
+EDEKA
+Edge Impulse
+EditorConfig
+Educative
+edX
+egghead
+Egnyte
+Eight
+Eight Sleep
+EJS
+El Jueves
+Elastic
+Elastic Cloud
+Elastic Stack
+Elasticsearch
+Elavon
+Electron
+Electron Fiddle
+electron-builder
+Element
+elementary
+Elementor
+Eleventy
+Elgato
+Elixir
+Ello
+Elm
+Elsevier
+Embarcadero
+Embark
+Ember.js
+Emby
+Emirates
+Emlakjet
+Empire Kred
+Engadget
+Enpass
+EnterpriseDB
+Envato
+Envoy Proxy
+EPEL
+Epson
+Equinix Metal
+Ericsson
+Erlang
+ERPNext
+esbuild
+ESEA
+ESLGaming
+ESLint
+Esoteric Software
+ESPHome
+Espressif
+ESRI
+etcd
+Ethereum
+Ethiopian Airlines
+Etihad Airways
+Etsy
+Event Store
+Eventbrite
+Evernote
+Exercism
+Exordo
+Exoscale
+Expedia
+Expensify
+Experts Exchange
+Expo
+Express
+ExpressVPN
+EyeEm
+F-Droid
+-378BBA?style=flat&logo=F-Secure&logoColor=white"/>
+F1
+F5
+Facebook
+Facebook Gaming
+Facebook Live
+FACEIT
+Facepunch
+Fairphone
+Falco
+Falcon
+FamPay
+Fandango
+Fandom
+Fanfou
+Fantom
+FareHarbor
+FARFETCH
+FastAPI
+Fastify
+Fastlane
+Fastly
+Fathom
+Fauna
+Favro
+FeatHub
+FedEx
+Fedora
+Feedly
+Ferrari
+Ferrari N.V.
+FerretDB
+FFmpeg
+Fi
+Fiat
+Fido Alliance
+FIFA
+Fig
+Figma
+figshare
+Fila
+File.io
+Files
+FileZilla
+Fineco
+Fing
+Firebase
+Firefish
+Firefly III
+Firefox
+Firefox Browser
+Fireship
+Firewalla
+FIRST
+Fitbit
+FITE
+FiveM
+Fiverr
+Flask
+Flat
+Flathub
+Flatpak
+Flattr
+Flickr
+Flightaware
+Flipboard
+Flipkart
+Floatplane
+Flood
+Fluent Bit
+Fluentd
+Fluke
+Flutter
+Flux
+Fluxus
+Flyway
+FMOD
+Fnac
+Folium
+Fonoma
+Font Awesome
+FontBase
+FontForge
+foodpanda
+Ford
+Forgejo
+Formstack
+Fortinet
+Fortran
+Fossa
+Fossil SCM
+Foursquare
+Foursquare City Guide
+FOX
+Foxtel
+Fozzy
+Framer
+Framework
+Framework7
+Franprix
+Frappe
+Fraunhofer-Gesellschaft
+FreeBSD
+freeCodeCamp
+freedesktop.org
+Freelancer
+FreeNAS
+Freepik
+Frontend Mentor
+Frontify
+Fubo
+Fuga Cloud
+Fujifilm
+Fujitsu
+Funimation
+Fur Affinity
+Furry Network
+FutureLearn
+G2
+G2A
+Galaxus
+Game & Watch
+Game Developer
+Game Jolt
+GameBanana
+Gameloft
+Gamemaker
+Garmin
+Gatling
+Gatsby
+GDAL
+Géant
+GeeksforGeeks
+General Electric
+General Motors
+Genius
+Gentoo
+Geocaching
+Gerrit
+GetX
+Ghost
+Ghostery
+GIMP
+Gin
+GIPHY
+Git
+Git Extensions
+Git LFS
+GitBook
+Gitconnected
+Gitea
+Gitee
+GitHub
+GitHub Actions
+GitHub Copilot
+GitHub Pages
+GitHub Sponsors
+gitignore.io
+GitKraken
+GitLab
+Gitpod
+Gitter
+Glassdoor
+Glide
+Glitch
+Globus
+Glovo
+Gmail
+GNOME
+GNOME Terminal
+GNU
+GNU Bash
+GNU Emacs
+GNU IceCat
+GNU Privacy Guard
+GNU social
+Go
+GoCD
+GoDaddy
+Godot Engine
+GoFundMe
+GOG.com
+GoLand
+GoldenLine
+Goldman Sachs
+Goodreads
+Google
+Google AdMob
+Google Ads
+Google AdSense
+Google Analytics
+Google Apps Script
+Google Assistant
+Google Bard
+Google BigQuery
+Google Bigtable
+Google Calendar
+Google Campaign Manager 360
+Google Cardboard
+Google Chat
+Google Chrome
+Google Classroom
+Google Cloud
+Google Cloud Composer
+Google Cloud Spanner
+Google Cloud Storage
+Google Colab
+Google Container Optimized OS
+Google Data Studio
+Google Dataflow
+Google Dataproc
+Google Docs
+Google Domains
+Google Drive
+Google Earth
+Google Earth Engine
+Google Fit
+Google Fonts
+Google Forms
+Google Hangouts
+Google Home
+Google Keep
+Google Lens
+Google Maps
+Google Marketing Platform
+Google Meet
+Google Messages
+Google My Business
+Google Nearby
+Google News
+Google Optimize
+Google Pay
+Google Photos
+Google Play
+Google Podcasts
+Google Pub/Sub
+Google Scholar
+Google Search Console
+Google Sheets
+Google Slides
+Google Street View
+Google Tag Manager
+Google Tasks
+Google Translate
+GoToMeeting
+Grab
+Gradle
+Gradle Play Publisher
+Grafana
+Grammarly
+Grand Frais
+GrapheneOS
+Graphite
+GraphQL
+Grav
+Gravatar
+Graylog
+Greasy Fork
+Great Learning
+Greenhouse
+GreenSock
+Grid.ai
+Gridsome
+GroupMe
+Groupon
+Grubhub
+Grunt
+GSK
+GSMArena.com
+GStreamer
+GTK
+Guangzhou Metro
+Guilded
+gulp
+Gumroad
+Gumtree
+Gunicorn
+Gurobi
+Gutenberg
+H&M
+H3
+Habr
+Hack Club
+Hack The Box
+Hackaday
+Hacker Noon
+HackerEarth
+HackerOne
+HackerRank
+Hackster
+HAL
+Handlebars.js
+Handshake
+Handshake
+HappyCow
+Harbor
+HarmonyOS
+HashiCorp
+Hashnode
+Haskell
+Hasura
+Hatena Bookmark
+haveibeenpwned
+Haxe
+HBO
+HCL
+HDFC Bank
+Headless UI
+Headphone Zone
+Headspace
+Hearth
+hearthis.at
+Hedera
+Helium
+HelloFresh
+Helly Hansen
+Helm
+Help Scout
+HelpDesk
+Hepsiemlak
+HERE
+Heroku
+Hetzner
+Hexlet
+Hexo
+HEY
+Hi Bob
+Hibernate
+Hilton
+Hilton Hotels & Resorts
+Hitachi
+Hive
+Hive
+Home Assistant
+Home Assistant Community Store
+HomeAdvisor
+Homebrew
+Homebridge
+homify
+Honda
+Honey
+Hono
+Honor
+Hootsuite
+Hoppscotch
+Hostinger
+Hotels.com
+Hotjar
+Hotwire
+Houdini
+Houzz
+HP
+HSBC
+HTML Academy
+HTML5
+htmx
+htop
+HTTPie
+Huawei
+HubSpot
+Hugo
+Humble Bundle
+Hungry Jack's
+Husqvarna
+Hyper
+Hyperskill
+Hypothesis
+Hyundai
+i18next
+i3
+Iata
+iBeacon
+Iberia
+IBM
+IBM Cloud
+IBM Watson
+Iced
+Iceland
+ICICI Bank
+Icinga
+iCloud
+IcoMoon
+ICON
+Iconfinder
+Iconify
+IconJar
+Icons8
+ICQ
+IEEE
+iFixit
+iFood
+IFTTT
+IGDB
+iHeartRadio
+IKEA
+Île-de-France Mobilités
+ImageJ
+IMDb
+Imgur
+Immer
+Immich
+Imou
+ImprovMX
+Indeed
+Indie Hackers
+IndiGo
+Inertia
+INFINITI
+InfluxDB
+InfoQ
+Informatica
+Infosys
+Infracost
+Ingress
+Inkdrop
+Inkscape
+Insomnia
+INSPIRE
+Insta360
+Instacart
+Instagram
+Instapaper
+Instatus
+Instructables
+Instructure
+Integromat
+Intel
+IntelliJ IDEA
+Interaction Design Foundation
+InteractJS
+Interbase
+Intercom
+Intermarche
+Internet Archive
+Internet Computer
+Internet Explorer
+Intigriti
+Intuit
+InVision
+Invoice Ninja
+ioBroker
+Ionic
+Ionos
+iOS
+IOTA
+IPFS
+IRIS
+ISC2
+Issuu
+Istio
+Itch.io
+iTerm2
+iTunes
+ITVx
+IVECO
+Jabber
+Jaeger
+Jaguar
+Jamboard
+Jameson
+Jamstack
+Jasmine
+JavaScript
+JBL
+JCB
+Jeep
+Jekyll
+Jellyfin
+Jenkins
+Jest
+JET
+JetBlue
+JetBrains
+Jetpack Compose
+JFrog
+JFrog Pipelines
+Jinja
+Jira
+Jira Software
+JitPack
+Jitsi
+John Deere
+Joomla
+Joplin
+Jordan
+Jovian
+JPEG
+jQuery
+JR Group
+jsDelivr
+JSFiddle
+JSON
+JSON Web Tokens
+JSS
+JUCE
+Juejin
+JUKE
+Julia
+Juniper Networks
+JUnit5
+Jupyter
+Just Eat
+JustGiving
+K3s
+k6
+Kaggle
+Kahoot!
+KaiOS
+Kakao
+KakaoTalk
+Kali Linux
+Kamailio
+Kaniko
+Karlsruher Verkehrsverbund
+Kasa Smart
+KashFlow
+Kaspersky
+Katacoda
+Katana
+Kaufland
+KDE
+Kdenlive
+Kedro
+Keep a Changelog
+KeePassXC
+Kentico
+Keras
+Keybase
+KeyCDN
+Keystone
+KFC
+Khan Academy
+Khronos Group
+Kia
+Kibana
+KiCad
+Kick
+Kickstarter
+Kik
+Kingston Technology
+Kinopoisk
+Kinsta
+Kirby
+Kit
+Kitsu
+Klarna
+KLM
+Klook
+Knative
+Knex.js
+KnowledgeBase
+Known
+Ko-fi
+Koa
+Koc
+Kodak
+Kodi
+Kofax
+Komoot
+Konami
+Kong
+Kongregate
+Konva
+Kotlin
+Koyeb
+Krita
+KTM
+Kuaishou
+Kubernetes
+Kubuntu
+KuCoin
+Kuma
+Kuula
+KX
+Kyocera
+L'Équipe
+LabVIEW
+LADA
+Lamborghini
+Land Rover
+Lapce
+Laragon
+Laravel
+Laravel Horizon
+Laravel Nova
+Last.fm
+LastPass
+LaTeX
+Launchpad
+Lazarus
+LBRY
+Leader Price
+Leaflet
+League of Legends
+Leanpub
+LeetCode
+Legacy Games
+Leica
+Lemmy
+Lenovo
+Lens
+Leptos
+Lerna
+Leroy Merlin
+Les libraires
+Less
+Let's Encrypt
+Letterboxd
+levels.fyi
+LG
+Libera.Chat
+Liberapay
+Libraries.io
+LibraryThing
+LibreOffice
+LibreOffice Base
+LibreOffice Calc
+LibreOffice Draw
+LibreOffice Impress
+LibreOffice Math
+LibreOffice Writer
+libuv
+Lichess
+Lidl
+LIFX
+LightBurn
+Lighthouse
+Lightning
+LINE
+LineageOS
+Linear
+LinkedIn
+Linkerd
+Linkfire
+Linksys
+Linktree
+Linux
+Linux Containers
+Linux Foundation
+Linux Mint
+Linux Professional Institute
+LinuxServer
+Lion Air
+Liquibase
+Lit
+Litecoin
+LITIENGINE
+LiveChat
+LiveJournal
+Livewire
+LLVM
+LMMS
+Local
+Lodash
+Logitech
+Logitech G
+LogMeIn
+Logseq
+Logstash
+Looker
+Loom
+Loop
+LoopBack
+Loot Crate
+Lospec
+LOT Polish Airlines
+LTspice
+Lua
+Lubuntu
+Ludwig
+Lufthansa
+Lumen
+Lunacy
+Lutris
+Lydia
+Lyft
+MAAS
+macOS
+MacPaw
+Macy's
+Magasins U
+Magento
+Magic
+Magisk
+Mahindra
+mail.com
+Mail.Ru
+MailChimp
+Mailgun
+Mailtrap
+Major League Hacking
+Make
+MakerBot
+Mamba UI
+MAMP
+MAN
+ManageIQ
+Manjaro
+Mantine
+Mapbox
+MapLibre
+MariaDB
+MariaDB Foundation
+Markdown
+Marketo
+Marko
+Marriott
+MarvelApp
+Maserati
+MasterCard
+mastercomfig
+Mastodon
+Material Design
+Material Design Icons
+Material for MkDocs
+Matillion
+Matomo
+Matrix
+Matter.js
+Mattermost
+Matternet
+Mautic
+Max
+Max-Planck-Gesellschaft
+Maytag
+Mazda
+McAfee
+McDonald's
+McLaren
+mdBook
+MDN Web Docs
+MDX
+MediaFire
+MediaMarkt
+MediaTek
+MediBang Paint
+Medium
+Medusa
+Meetup
+MEGA
+Meilisearch
+Meituan
+Mendeley
+MentorCruise
+Mercado Pago
+Mercedes
+Merck
+Mercurial
+Mermaid
+Messenger
+Meta
+Metabase
+Metacritic
+MetaFilter
+Metasploit
+Meteor
+Metro
+Metro de la Ciudad de México
+Metro de Madrid
+Métro de Paris
+MeWe
+MG
+Micro Editor
+micro:bit
+Micro.blog
+Microgenetics
+MicroPython
+Microsoft
+Microsoft Academic
+Microsoft Access
+Microsoft Azure
+Microsoft Bing
+Microsoft Edge
+Microsoft Excel
+Microsoft Exchange
+Microsoft OneDrive
+Microsoft OneNote
+Microsoft Outlook
+Microsoft PowerPoint
+Microsoft SharePoint
+Microsoft SQL Server
+Microsoft Store
+Microsoft Teams
+Microsoft Translator
+Microsoft Visio
+Microsoft Word
+Microstation
+MicroStrategy
+MIDI
+Mikrotik
+Milvus
+Minds
+Minecraft
+Minetest
+Mini
+MinIO
+Minutemailer
+Miraheze
+Miro
+Misskey
+Mitsubishi
+Mix
+Mixcloud
+Mixpanel
+MLB
+MLflow
+MobX
+MobX-State-Tree
+Mocha
+Mock Service Worker
+Modin
+Modrinth
+MODX
+Mojang Studios
+Moleculer
+Momenteo
+Monero
+MoneyGram
+MongoDB
+Mongoose
+Mongoose
+Monica
+monkey tie
+Monkeytype
+MonoGame
+Monoprix
+Monster
+Monzo
+Moo
+Moodle
+Moonrepo
+Moqups
+Morrisons
+Moscow Metro
+Motorola
+Mozilla
+mpv
+MQTT
+MSI
+MSI Business
+MTA
+MTR
+MUBI
+MUI
+Mulesoft
+Müller
+Multisim
+Mumble
+MUO
+Mural
+MuseScore
+MusicBrainz
+MX Linux
+MyAnimeList
+MyGet
+MYOB
+Myspace
+MySQL
+N26
+Namebase
+Namecheap
+Nano
+NASA
+National Grid
+NativeScript
+NATS.io
+Naver
+NBA
+NBB
+NBC
+NDR
+NEAR
+NEC
+Neo4j
+Neovim
+NestJS
+NetApp
+NetBSD
+netcup
+NetEase Cloud Music
+Netflix
+NETGEAR
+Netlify
+Nette
+Netto
+Neutralinojs
+New Balance
+New Japan Pro-Wrestling
+New Relic
+New York Times
+Newegg
+Next.js
+NextBillion.ai
+Nextcloud
+NextDNS
+Nextdoor
+Nextra
+NextUI
+NFC
+NGINX
+Nginx Proxy Manager
+ngrok
+NgRx
+NHL
+Niantic
+niconico
+Nike
+Nikon
+Nim
+Nintendo
+Nintendo 3DS
+Nintendo GameCube
+Nintendo Network
+Nintendo Switch
+Nissan
+NixOS
+Node-RED
+Node.js
+Nodemon
+Nokia
+Nomad
+Norco
+Nordic Semiconductor
+NordVPN
+Normalize.css
+Norton
+Norwegian
+Notepad++
+Notion
+Notist
+Noun Project
+Novu
+NOW
+npm
+Nrwl
+NSIS
+Nubank
+Nucleo
+NuGet
+Nuke
+Numba
+NumPy
+Nunjucks
+Nutanix
+Nuxt.js
+NVIDIA
+Nx
+NXP
+NZXT
+O'Reilly
+OBS Studio
+Observable
+Obsidian
+OCaml
+oclif
+Octane Render
+Octave
+October CMS
+OctoPrint
+Octopus Deploy
+Oculus
+Odnoklassniki
+Odoo
+Odysee
+Oh Dear
+okcupid
+Okta
+OnePlus
+OnlyFans
+ONLYOFFICE
+ONNX
+OnStar
+Opel
+Open Access
+Open Badges
+Open Bug Bounty
+Open Collective
+Open Containers Initiative
+Open Source Hardware
+Open Source Initiative
+OpenAI
+OpenAI Gym
+OpenAPI Initiative
+OpenBSD
+OpenCV
+OpenFaaS
+OpenGL
+openHAB
+OpenID
+OpenJDK
+Openlayers
+OpenMined
+OpenNebula
+OpenProject
+OpenSCAD
+OpenSea
+OpenSearch
+OpenSSL
+OpenStack
+OpenStreetMap
+openSUSE
+OpenTelemetry
+OpenText
+OpenTofu
+Openverse
+OpenVPN
+OpenWrt
+OpenZeppelin
+OpenZFS
+Opera
+Opera GX
+OPNSense
+OPPO
+Opsgenie
+OpsLevel
+Oracle
+Orange
+ORCID
+Org
+Origin
+Osano
+OSF
+OSGeo
+Oshkosh
+OSMC
+osu!
+Otto
+Overcast
+Overleaf
+OVH
+OWASP
+OWASP Dependency-Check
+ownCloud
+Oxygen
+OYO
+p5.js
+Packagist
+Packer
+Packt
+Paddle
+PaddlePaddle
+Paddy Power
+Pagekit
+PagerDuty
+PageSpeed Insights
+PagSeguro
+Palantir
+Palo Alto Networks
+Palo Alto Software
+Panasonic
+pandas
+Pandora
+Pantheon
+Paperless-ngx
+Paperspace
+Paramount+
+Parity Substrate
+Parse.ly
+Passport
+Pastebin
+Patreon
+Paychex
+Payhip
+Payload CMS
+Payoneer
+PayPal
+Paytm
+PCGamingWiki
+PDM
+PDQ
+Peak Design
+Pearson
+Peerlist
+PeerTube
+Pegasus Airlines
+Pelican
+Peloton
+Penny
+Penpot
+Percy
+Perforce
+Perl
+Persistent
+Personio
+Pets at Home
+Peugeot
+Pexels
+pfSense
+Phabricator
+Philips Hue
+Phoenix Framework
+PhonePe
+Phosphor Icons
+Photobucket
+Photocrowd
+Photopea
+PHP
+phpMyAdmin
+PhpStorm
+Pi Network
+Pi-hole
+Piaggio Group
+Piapro
+Picard Surgelés
+Picarto.TV
+Picnic
+PicPay
+Picxy
+Pimcore
+Pinboard
+Pine Script
+Pingdom
+Pinterest
+Pioneer DJ
+Piped
+pipx
+Pivotal Tracker
+Piwigo
+Pix
+Pixabay
+pixiv
+pkgsrc
+Planet
+PlanetScale
+PlanGrid
+Platform.sh
+PlatformIO
+Platzi
+Plausible Analytics
+PlayCanvas
+Player FM
+Player.me
+PlayStation
+PlayStation 2
+PlayStation 3
+PlayStation 4
+PlayStation 5
+PlayStation Vita
+Playwright
+Pleroma
+Plesk
+Plex
+Plotly
+Pluralsight
+Plurk
+Plus Codes
+PM2
+pnpm
+Pocket
+Pocket Casts
+PocketBase
+Podcast Addict
+Podcast Index
+Podman
+Poe
+Poetry
+Pointy
+Pokémon
+Polars
+Polestar
+Polkadot
+Poly
+Polygon
+Polymer Project
+Polywork
+Pond5
+Pop!_OS
+Porsche
+Portainer
+PortSwigger
+PostCSS
+PostgreSQL
+PostHog
+Postman
+Postmates
+Power Apps
+Power Automate
+Power BI
+Power Fx
+Power Pages
+Power Virtual Agents
+POWERS
+PowerShell
+pr.co
+pre-commit
+Preact
+Prefect
+Premier League
+PrepBytes
+PrestaShop
+Presto
+Prettier
+Pretzel
+Prevention
+Prezi
+Prime
+Prime Video
+Printables
+Prisma
+Prismic
+Private Division
+Private Internet Access
+Pro Tools
+Probot
+Processing Foundation
+ProcessWire
+Product Hunt
+Progate
+Progress
+Prometheus
+ProSieben
+Proteus
+Proto.io
+protocols.io
+Proton
+Proton Calendar
+Proton Drive
+Proton Mail
+Proton VPN
+ProtonDB
+Protractor
+Proxmox
+Pterodactyl
+PUBG
+Publons
+PubMed
+Pug
+Pulumi
+Puma
+Puppet
+Puppeteer
+PureScript
+PurgeCSS
+Purism
+Pushbullet
+Pusher
+PWA
+PyCharm
+Pydantic
+PyG
+PyPI
+PyPy
+PyScaffold
+PySyft
+Pytest
+Python
+PythonAnywhere
+PyTorch
+PyUp
+Qantas
+Qase
+Qatar Airways
+QEMU
+Qgis
+Qi
+Qiita
+Qiskit
+QIWI
+Qlik
+QMK
+Qt
+Qualcomm
+Qualtrics
+Qualys
+Quantcast
+QuantConnect
+Quarkus
+Quasar
+Qubes OS
+Quest
+QuickBooks
+QuickLook
+QuickTime
+quicktype
+Quip
+Quora
+Qwant
+Qwiklabs
+Qzone
+R
+R3
+RabbitMQ
+Racket
+RAD Studio
+Radar
+RadioPublic
+Radix UI
+Railway
+Rainmeter
+Rakuten
+Ram
+Rancher
+Rapid
+Rarible
+Rasa
+Raspberry Pi
+Ravelry
+Ray
+Raycast
+Raylib
+Razer
+Razorpay
+React
+React Hook Form
+React Query
+React Router
+React Table
+Reactive Resume
+ReactiveX
+ReactOS
+Read the Docs
+Read.cv
+ReadMe
+Realm
+Reason
+Reason Studios
+Recoil
+Red
+Red Bull
+Red Hat
+Red Hat Open Shift
+Redbubble
+Reddit
+Redis
+Redmine
+Redox
+Redux
+Redux-Saga
+RedwoodJS
+Reebok
+Refine
+Relay
+Reliance Industries Limited
+remark
+Remedy Entertainment
+Remix
+Ren'Py
+Renault
+Render
+RenovateBot
+Renren
+Replit
+Republic of Gamers
+ReScript
+RescueTime
+ResearchGate
+Resend
+ReSharper
+Resurrection Remix OS
+Retool
+RetroArch
+RetroPie
+ReVanced
+reveal.js
+ReverbNation
+Revolt.chat
+Revolut
+Revue
+REWE
+Rezgo
+Rhinoceros
+Rider
+Rimac Automobili
+Ring
+Riot Games
+Ripple
+RISC-V
+Riseup
+Ritz Carlton
+Rive
+roadmap.sh
+Roam Research
+Robinhood
+Roblox
+Roblox Studio
+Robot Framework
+Rocket.Chat
+RocksDB
+Rockstar Games
+Rockwell Automation
+Rocky Linux
+Roku
+Rolls-Royce
+rollup.js
+Rome
+Roon
+Root Me
+Roots
+Roots Bedrock
+Roots Sage
+ROS
+Rossmann
+Rotary International
+Rotten Tomatoes
+Roundcube
+RSocket
+RSS
+RStudio
+RTÉ
+RTL
+RTLZWEI
+RTM
+RuboCop
+Ruby
+Ruby on Rails
+Ruby Sinatra
+RubyGems
+Ruff
+Rumahweb
+Rumble
+Rundeck
+Runkeeper
+RunKit
+Runrun.it
+Rust
+RxDB
+Ryanair
+Rye
+S7 Airlines
+Sabanci
+Safari
+Sage
+Sahibinden
+Sailfish OS
+Sails.js
+Salesforce
+Salla
+Salt Project
+Sam's Club
+Samsung
+Samsung Pay
+San Francisco Municipal Railway
+SanDisk
+Sanic
+Sanity
+São Paulo Metro
+SAP
+Sass
+Sat.1
+Satellite
+Saturn
+Sauce Labs
+Saudia
+Scala
+Scaleway
+Scania
+Schneider Electric
+scikit-learn
+SciPy
+Scopus
+SCP Foundation
+Scrapbox
+Scrapy
+Scratch
+Screencastify
+Scribd
+Scrimba
+ScrollReveal
+Scrum Alliance
+Scrutinizer CI
+ScyllaDB
+Seagate
+SearXNG
+SEAT
+SeatGeek
+SecurityScorecard
+Sefaria
+Sega
+Selenium
+Sellfy
+Semantic Scholar
+Semantic UI
+Semantic UI React
+Semantic Web
+semantic-release
+Semaphore CI
+Semrush
+SemVer
+Sencha
+Sennheiser
+Sensu
+Sentry
+SEPA
+Sequelize
+Server Fault
+Serverless
+Session
+Sessionize
+Setapp
+SFML
+shadcn/ui
+Shadow
+Shanghai Metro
+ShareX
+sharp
+Shazam
+Shell
+Shelly
+Shenzhen Metro
+Shields.io
+Shikimori
+Shopee
+Shopify
+Shopware
+Shortcut
+Shotcut
+Showpad
+Showtime
+Showwcase
+Shutterstock
+SideQuest
+Siemens
+SiFive
+Signal
+Similarweb
+Simkl
+Simple Analytics
+Simple Icons
+SimpleLogin
+Simplenote
+Sina Weibo
+Singapore Airlines
+SingleStore
+Sitecore
+SitePoint
+SiYuan
+Skaffold
+Sketch
+Sketchfab
+SketchUp
+Skillshare
+ŠKODA
+Sky
+Skynet
+Skypack
+Skype
+Skype for Business
+Skyrock
+Slack
+Slackware
+Slashdot
+SlickPic
+Slides
+SlideShare
+Slint
+smart
+SmartThings
+smash.gg
+Smashing Magazine
+SMRT
+SmugMug
+Snapchat
+Snapcraft
+SNCF
+Snowflake
+Snowpack
+Snyk
+Social Blade
+Society6
+Socket.io
+Softpedia
+Sogou
+Solana
+Solid
+Solidity
+Sololearn
+Solus
+Sonar
+SonarCloud
+SonarLint
+SonarQube
+Sonatype
+Songkick
+Songoda
+SonicWall
+Sonos
+Sony
+Soriana
+Soundcharts
+SoundCloud
+Source Engine
+SourceForge
+SourceHut
+Sourcetree
+Southwest Airlines
+Spacemacs
+SpaceX
+spaCy
+Spark AR
+Sparkasse
+SparkFun
+SparkPost
+SPDX
+Speaker Deck
+Spectrum
+Speedtest
+SpeedyPage
+Sphere Online Judge
+Sphinx
+SpigotMC
+Spine
+Spinnaker
+Spinrilla
+Splunk
+Spond
+Spotify
+Spotlight
+Spreadshirt
+Spreaker
+Spring
+Spring
+Spring Boot
+Spring Security
+Spyder IDE
+SQLAlchemy
+SQLite
+Square
+Square Enix
+Squarespace
+SRG SSR
+SSRN
+SST
+Stack Exchange
+Stack Overflow
+Stackbit
+StackBlitz
+StackEdit
+StackHawk
+StackPath
+StackShare
+Stadia
+Staffbase
+Stagetimer
+Standard Resume
+StandardJS
+Star Trek
+Starbucks
+Stardock
+Starling Bank
+Starship
+STARZ
+Statamic
+Statuspage
+Statuspal
+Steam
+Steam Deck
+SteamDB
+Steamworks
+Steelseries
+Steem
+Steemit
+Steinberg
+Stellar
+Stencyl
+Stimulus
+Stitcher
+STMicroelectronics
+StockX
+StopStalk
+Storyblok
+Storybook
+Strapi
+Strava
+Streamlabs
+Streamlit
+StreamRunners
+Stripe
+strongSwan
+Stryker
+StubHub
+Studio 3T
+Studyverse
+styled-components
+stylelint
+StyleShare
+Stylus
+Subaru
+Sublime Text
+Substack
+Subtitle Edit
+Subversion
+suckless
+Sumo Logic
+Supabase
+Super User
+Supercrease
+Supermicro
+SurrealDB
+SurveyMonkey
+SUSE
+Suzuki
+Svelte
+SVG
+SVG.js
+SVGO
+Swagger
+Swarm
+SWC
+Swift
+Swiggy
+Swiper
+SWR
+Symantec
+Symbolab
+Symfony
+Symphony
+SymPy
+Synology
+System76
+T-Mobile
+Tabelog
+Tableau
+TableCheck
+Taco Bell
+tado°
+Taichi Graphics
+Taichi Lang
+Tails
+Tailwind CSS
+Take-Two Interactive Software
+Talend
+Talenthouse
+Tamiya
+Tampermonkey
+Taobao
+Tapas
+Target
+Task
+Tasmota
+Tata
+Tata Consultancy Services
+Tauri
+TaxBuzz
+TeamCity
+TeamSpeak
+TeamViewer
+TED
+TeePublic
+Teespring
+Tekton
+TELE 5
+Télé-Québec
+Telegram
+Telegraph
+Temporal
+Tencent QQ
+TensorFlow
+Teradata
+teratail
+Termius
+Terraform
+Tesco
+Tesla
+TestCafe
+Testin
+Testing Library
+TestRail
+Tether
+Textpattern
+TGA
+Thangs
+The Algorithms
+The Conversation
+THE FINALS
+The Irish Times
+The Mighty
+The Models Resource
+The Movie Database
+The North Face
+The Odin Project
+The Register
+The Sounds Resource
+The Spriters Resource
+The Washington Post
+Thingiverse
+ThinkPad
+Threadless
+Threads
+Three.js
+Threema
+Thumbtack
+Thunderbird
+Thunderstore
+Thurgauer Kantonalbank
+Thymeleaf
+Ticketmaster
+TickTick
+Tidal
+TiddlyWiki
+Tide
+Tidyverse
+TietoEVRY
+TikTok
+Tilda Publishing
+Tile
+Timescale
+Tina
+Tinder
+Tindie
+Tinkercad
+TinyLetter
+Tistory
+tmux
+Todoist
+Toggl
+Toggl Track
+Tokyo Metro
+Toll
+TOML
+Tomorrowland
+TON
+Top.gg
+Topcoder
+Toptal
+Tor Browser
+Tor Project
+Toshiba
+TOTVS
+TourBox
+Toyota
+TP-Link
+tqdm
+TradingView
+Traefik Mesh
+Traefik Proxy
+Trailforks
+TrainerRoad
+Trakt
+Transifex
+Transmission
+Transport for Ireland
+Transport for London
+Travis CI
+Treehouse
+Trello
+Trend Micro
+Treyarch
+Tricentis
+Trilium
+Triller
+TrillerTV
+Trino
+Trip.com
+Tripadvisor
+Trivy
+Trove
+tRPC
+TrueNAS
+trulia
+Trusted Shops
+Trustpilot
+Try It Online
+TryHackMe
+ts-node
+Tubi
+TUI
+Tumblr
+TuneIn
+Turbo
+Turborepo
+TurboSquid
+Turkish Airlines
+Turso
+Tutanota
+TV Time
+Twilio
+Twitch
+Twitter
+Typeform
+TypeScript
+TYPO3
+Uber
+Uber Eats
+Ubiquiti
+Ubisoft
+uBlock Origin
+Ubuntu
+Ubuntu MATE
+Udacity
+Udemy
+UFC
+UIkit
+Ulule
+Umami
+Umbraco
+UML
+Unacademy
+Under Armour
+Underscore.js
+Undertale
+Unicode
+Unilever
+Uniqlo
+Uniqlo
+United Airlines
+United Nations
+Unity
+Unlicense
+UnoCSS
+Unraid
+Unreal Engine
+Unsplash
+Untappd
+UpCloud
+Uphold
+UpLabs
+Upptime
+UPS
+Upstash
+Uptime Kuma
+Uptobox
+Upwork
+USPS
+uTorrent
+V
+V2EX
+V8
+Vaadin
+Vagrant
+Vala
+Valorant
+Valve
+Vapor
+Vault
+Vaultwarden
+Vauxhall
+vBulletin
+Vectary
+Vector Logo Zone
+Vectorworks
+Veeam
+Veepee
+Vega
+VEGAS
+Velog
+Venmo
+Vercel
+Verdaccio
+Veritas
+Verizon
+Vespa
+VEXXHOST
+vFairs
+Viadeo
+Viaplay
+Viber
+Viblo
+VictoriaMetrics
+Victron Energy
+Vim
+Vimeo
+Vimeo Livestream
+Virgin
+Virgin Atlantic
+Virgin Media
+VirtualBox
+VirusTotal
+Visa
+Visual Basic
+Visual Studio
+Visual Studio App Center
+Visual Studio Code
+Vite
+Vitess
+Vitest
+Viva Wallet
+Vivaldi
+Vivino
+Vivint
+VK
+VLC media player
+VMware
+Vodafone
+Void Linux
+VoIP.ms
+Volkswagen
+Volvo
+Vonage
+Voron Design
+Vowpal Wabbit
+VOX
+VSCO
+VSCodium
+VTEX
+Vue.js
+Vuetify
+Vulkan
+Vultr
+Vyond
+W3Schools
+Wacom
+Wagtail
+Wails
+WakaTime
+WALKMAN
+Wallabag
+WalletConnect
+Walmart
+Wantedly
+Wappalyzer
+Warner Bros.
+Warp
+Wasabi
+wasmCloud
+Wasmer
+Wattpad
+Wayland
+Waze
+WazirX
+Wear OS
+Weasyl
+Web3.js
+WebAssembly
+WebAuthn
+webcomponents.org
+WebdriverIO
+Webex
+Webflow
+WebGL
+Weblate
+Webmin
+WebMoney
+Webpack
+WebRTC
+WebStorm
+WEBTOON
+webtrees
+WeChat
+WeGame
+Weights & Biases
+Welcome to the Jungle
+Wellfound
+Wells Fargo
+WEMO
+Western Digital
+WeTransfer
+WezTerm
+WhatsApp
+When I Work
+Wii
+Wii U
+wiki.gg
+Wiki.js
+Wikidata
+Wikimedia Commons
+Wikipedia
+Wikiquote
+Wikivoyage
+Winamp
+Windows
+Windows 10
+Windows 11
+Windows 95
+Windows Terminal
+Windows XP
+Wipro
+Wire
+WireGuard
+Wireshark
+Wise
+Wish
+Wistia
+Wix
+Wizz Air
+Wolfram
+Wolfram Language
+Wolfram Mathematica
+Wondershare
+Woo
+WooCommerce
+WordPress
+Workplace
+World Health Organization
+WP Engine
+WP Rocket
+WPExplorer
+Write.as
+WWE
+Wwise
+Wyze
+X
+X.Org
+Xamarin
+XAML
+XAMPP
+Xbox
+Xcode
+XDA Developers
+Xendit
+Xero
+XFCE
+Xiaomi
+Xing
+XMPP
+XO
+XRP
+XSplit
+XState
+Y Combinator
+Yale
+Yamaha Corporation
+Yamaha Motor Corporation
+YAML
+Yammer
+Yandex Cloud
+Yarn
+Yelp
+Yeti
+Yoast
+YouTube
+YouTube Gaming
+YouTube Kids
+YouTube Music
+YouTube Shorts
+YouTube Studio
+YouTube TV
+Yr
+Yubico
+Żabka
+Zalando
+Zalo
+ZAP
+Zapier
+Zara
+Zazzle
+Zcash
+ZCOOL
+ZDF
+ZebPay
+Zebra Technologies
+Zelle
+Zend
+Zendesk
+Zenn
+Zenodo
+Zensar
+Zerodha
+Zerply
+Zettlr
+Zhihu
+Zig
+Zigbee
+Ziggo
+Zilch
+Zillow
+ZincSearch
+Zingat
+Zod
+Zoho
+Zoiper
+Zomato
+Zoom
+Zorin
+Zotero
+Zsh
+Zulip
+Zyte
