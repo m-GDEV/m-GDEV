@@ -16,10 +16,12 @@ class ReadmeData:
         self.logo_location: str = ""
         self.demo_media_location: str = ""
         self.installation_steps: list[str] = []
+        self.folder_structure: str = ""
         self.contributing_steps: list[str] = []
         self.license_information: str = ""
         self.acknowledgements: list[str] = []
         self.built_with_badges: list[str] = []
+        self.readme_version: int = README_VERSION
 
     def init_with_dict(self, dict):
         for key, value in dict.items():
@@ -96,6 +98,7 @@ def collect_data(repo_name):
     return data
 
 # CONSTANTS
+README_VERSION = 100 # 1.0.0
 BASE_FOLDER = "./READMES"
 MARKDOWN_FOLDER = BASE_FOLDER + "/markdown"
 JSON_FOLDER = BASE_FOLDER + "/json"
@@ -115,7 +118,12 @@ try:
         res = json.loads(s)
         # object written as dict in JSON, re-convert to object
         data = ReadmeData()
+        data.readme_version = None # we don't want the default (most up to date) readme version to be applied to readmes saved to json
         data.init_with_dict(res)
+
+        if data.readme_version is None or data.readme_version == "" or data.readme_version < README_VERSION:
+            print("Your README json file is out of date, please look at the updated format in this script and update your json file accordingly.")
+            quit()
         
     # no data exists for this project
     else:
@@ -178,8 +186,10 @@ readme_template = f"""
     * [Why I Created This Project](#why-i-created-this-project)
     * [Features](#features)
     * [Technologies Used](#technologies-used)
-* [Installation](#installation)
-* [Contributing](#contributing)
+* [Development]
+    * [Installation](#installation)
+    * [Folder Structure](#folder-structure)
+    * [Contributing](#contributing)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 * [License](#license)
@@ -204,13 +214,15 @@ readme_template = f"""
 {"".join([f'{badge} ' for badge in data.built_with_badges])}
 
 
+## Development
 
-<!-- GETTING STARTED -->
-## Installation
+### Installation
 {"".join([f'* {el}\n' for el in data.installation_steps])}
 
-<!-- CONTRIBUTING -->
-## Contributing
+### Folder Structure
+{data.folder_structure}
+
+### Contributing
 {"".join([f'* {el}\n' for el in data.contributing_steps]) or """
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -242,12 +254,16 @@ Project Link: [https://github.com/{data.user_name}/{data.repo_name}](https://git
 * [Best-README-Template: for this cool template](https://github.com/othneildrew/Best-README-Template)
 {"".join([f'* [{el[0]}]({el[1]})\n' for el in data.acknowledgements])}
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- LICENSE -->
 ## License
 
 {data.license_information}
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+
+<sup>README version {README_VERSION}</sup>
 """
 
 with open(f"{MARKDOWN_FOLDER}/{repo_name}.md", "w") as f:

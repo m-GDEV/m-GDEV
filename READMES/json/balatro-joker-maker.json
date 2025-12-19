@@ -26,6 +26,7 @@
         "Run `npm run dev`",
         "Go to `https://localhost:5173` in your browser"
     ],
+    "folder_structure":
     "contributing_steps": [],
     "license_information": "Distributed under the GPL 3.0 License. See LICENSE for more information.",
     "acknowledgements": [

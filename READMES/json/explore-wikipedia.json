@@ -23,6 +23,7 @@
         "Run `npm run dev` to run the frontend",
         "Go to `http://localhost:5173` and view the cool visualization :)"
     ],
+    "folder_structure": "",
     "contributing_steps": [],
     "license_information": "Distributed under the GPL 3.0 License. See LICENSE for more information.",
     "acknowledgements": [

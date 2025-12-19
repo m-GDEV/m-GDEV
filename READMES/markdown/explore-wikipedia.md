@@ -35,8 +35,10 @@
     * [Why I Created This Project](#why-i-created-this-project)
     * [Features](#features)
     * [Technologies Used](#technologies-used)
-* [Installation](#installation)
-* [Contributing](#contributing)
+* [Development]
+    * [Installation](#installation)
+    * [Folder Structure](#folder-structure)
+    * [Contributing](#contributing)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 * [License](#license)
@@ -64,9 +66,9 @@ I created this proejct shortly after learning  taking a data structures course. 
 <img src="https://img.shields.io/badge/-Cytoscape.js-F7DF1E?style=flat&logo=cytoscapedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/-Nx-143055?style=flat&logo=nx&logoColor=white"/> <img src="https://img.shields.io/badge/-MicroPython-2B2728?style=flat&logo=micropython&logoColor=white"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white"/> <img src="https://img.shields.io/badge/-.ENV-ECD53F?style=flat&logo=dotenv&logoColor=white"/> 
 
 
+## Development
 
-<!-- GETTING STARTED -->
-## Installation
+### Installation
 * Create a python virtual environment with `python3 -m venv ./env`
 * Activate the environment: `source ./env/bin/activate`
 * Run `src/build_graph.py` and input the names of the source and target wikipedia pages
@@ -76,8 +78,10 @@ I created this proejct shortly after learning  taking a data structures course. 
 * Go to `http://localhost:5173` and view the cool visualization :)
 
 
-<!-- CONTRIBUTING -->
-## Contributing
+### Folder Structure
+
+
+### Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -110,9 +114,13 @@ Project Link: [https://github.com/m-GDEV/explore-wikipedia](https://github.com/m
 * [The Wiki Game was a major inspiration for this project](https://www.thewikigame.com/)
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the GPL 3.0 License. See LICENSE for more information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+
+<sup>README version 1.0</sup>
